@@ -1,4 +1,4 @@
-## hi there 👋 It's tim
+## hi there 👋 it's tim
 - 🔭 i’m imterested in computational neuroscience.
 - 🌱 i’m currently working on modeling human visual perception using AI.
 - 😄 pronouns: he/him 🌈
